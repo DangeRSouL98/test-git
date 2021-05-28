@@ -1,2 +1,3 @@
 halo ini test git
 ini di branch 1
+halo ini di master
